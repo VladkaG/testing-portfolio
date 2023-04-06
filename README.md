@@ -29,3 +29,6 @@
   <li>Trello</li>
  </ul>
 <h2>:mag: Examples of my work</h2>
+<h3>Checklists</h3>
+<ul>
+  <li>Checklist for checking registration and login to the website. Review <a href="https://docs.google.com/spreadsheets/d/1dJKUG77aVtjMitV5rfm0RW5qp4jy8yAO/edit?usp=share_link&ouid=114709164951643039076&rtpof=true&sd=true">the Google Sheets document here</a></li>
