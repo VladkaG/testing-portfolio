@@ -26,5 +26,6 @@ You can open and download my CV as a PDF from my <a href="https://drive.google.c
   <li>MantisBT</li>
   <li>Chrome DevTools</li>
   <li>Charles Proxy</li>
+  <li>Trello</li>
  </ul>
 <h2>:mag: Examples of my work</h2>
