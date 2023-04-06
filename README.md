@@ -17,7 +17,7 @@
 <p>Although I have not had the opportunity to work in software testing before, I am highly motivated and enthusiastic about gaining hands-on experience in the field. I am eager to apply my knowledge and skills to real-world testing scenarios and learn from experienced professionals in the industry. </p>
 <p>My current career goal is to become a mid-level software tester within the next two years. I am eager to gain hands-on experience in software testing and apply my skills to testing operational products.</p>
 <h2>:bookmark_tabs: CV</h2>
-You can open and download my CV as a PDF from my <a href="https://drive.google.com/file/d/1wZe9JY9BXBJwlt8BJHR6lx3DxY_jDM-6/view?usp=share_link">Google Drive</a>
+<p>You can open and download my CV as a PDF from my <a href="https://drive.google.com/file/d/1wZe9JY9BXBJwlt8BJHR6lx3DxY_jDM-6/view?usp=share_link">Google Drive</a>.</p>
 <h2>:sparkles: Skills</h2>
 <h2>:hammer_and_wrench: Tools</h2>
 <ul>
