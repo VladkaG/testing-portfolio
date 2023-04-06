@@ -9,7 +9,6 @@
 <li>CV</li>
 <li>Skills</li>
 <li>Tools</li>
-<li>Courses</li>
 <li>Examples of my work</li>
 </ul>
 <h2>:eye_speech_bubble: About me</h2>
@@ -21,5 +20,11 @@
 You can open and download my CV as a PDF from my <a href="https://drive.google.com/file/d/1wZe9JY9BXBJwlt8BJHR6lx3DxY_jDM-6/view?usp=share_link">Google Drive</a>
 <h2>:sparkles: Skills</h2>
 <h2>:hammer_and_wrench: Tools</h2>
-<h2>:fountain_pen: Courses</h2>
+<ul>
+  <li>Jira</li>
+  <li>TestLink</li>
+  <li>MantisBT</li>
+  <li>Chrome DevTools</li>
+  <li>Charles Proxy</li>
+ </ul>
 <h2>:mag: Examples of my work</h2>
