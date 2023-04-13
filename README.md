@@ -39,3 +39,14 @@
 <h3>Checklists</h3>
 <ul>
   <li>Checklist for checking website registration and login. Review <a href="https://docs.google.com/spreadsheets/d/1dJKUG77aVtjMitV5rfm0RW5qp4jy8yAO/edit?usp=share_link&ouid=114709164951643039076&rtpof=true&sd=true">the Google Sheets document here</a></li>
+  </ul>
+<h3>Bug Reports</h3>
+<p>The GoIT training<p>
+<ul>
+<li>#1 <a href= "https://drive.google.com/file/d/19x60cxgOQVfeXAEUvy3oLs3fnDtrfgzW/view?usp=share_link">Bug</a></li>
+<li>#2 <a href= "https://drive.google.com/file/d/1kfxPxnQHa4IcR5Ww9a2a0OMKc0Krx25U/view?usp=share_link">Bug</a></li>
+<li>#3 <a href= "https://drive.google.com/file/d/1wIik7FtZPu4F0wlHfD2NiXBhdyd-EjqA/view?usp=share_link">Bug</a></li>
+<li>#4 <a href= "https://drive.google.com/file/d/1xDjL98PSUuY58b_bZDiZ1-Tz5pFmnANE/view?usp=share_link">Bug</a></li>
+<li>#5 <a href= "https://drive.google.com/file/d/1eDqr1ddk65fOLjRRh89JcJEJphTGXjpL/view?usp=share_link">Bug</a></li>
+<li>Report <a href= "https://drive.google.com/file/d/1xwAo5plY-9-AeFY74--418fBNnTWryhj/view?usp=share_link">list</a></li>
+</ul>
